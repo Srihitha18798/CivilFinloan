@@ -1,0 +1,114 @@
+{
+  "allservices": [
+    {
+      "type": "Small Scale Business Loans",
+      "code": "SCB",
+      "description": "Providing loans which designed for your aspirations in starting a business",
+      "detail": [
+        {
+          "type": "DI Loan",
+          "min": 15000,
+          "max": 100000,
+          "rate": 0.05,
+          "tenure": 150
+        },
+        {
+          "type": "MI Loan",
+          "min": 100000,
+          "max": 300000,
+          "rate": 0.07,
+          "tenure": 34
+        }
+      ]
+    },
+    {
+      "type": "Money Remittance",
+      "code": "MR",
+      "description": "Secure, simple and most exciting way of your transactions to inter and intra regions",
+      "detail": [
+        {
+          "type": "Domestic",
+          "min": 2500,
+          "max": 25000,
+          "rate": 0.02,
+          "tenure": "NA"
+        },
+        {
+          "type": "Inward",
+          "min": 5000,
+          "max": 10000,
+          "rate": 0.05,
+          "tenure": "NA"
+        }
+      ]
+    },
+    {
+      "type": "Wealth Management",
+      "code": "WM",
+      "description": "We are providing significant services for your betterment of your wealth management by experts",
+      "detail": [
+        "DEMAT",
+        "PAN",
+        "NPS"
+      ]
+    },
+    {
+      "type": "Micro Finance",
+      "code": "MF",
+      "description": "Motivate the entrepreneurs across all small villages and rural areas by providing them a better support",
+      "detail": [
+        {
+          "type": "NA",
+          "rate": 0.28,
+          "min": 1000,
+          "max": 3500,
+          "tenure": 2
+        }
+      ]
+    }
+  ],
+  "members": [
+    {
+      "userID": "user34",
+      "mobile": 9984056778,
+      "password": "user34@123",
+      "fullName": "Albert Rachael Pereira",
+      "id": 1
+    },
+    {
+      "userID": "user44",
+      "mobile": 9903456777,
+      "password": "user44@123",
+      "fullName": "Charlie Walter Moras",
+      "id": 2
+    },
+    {
+      "userID": "user84",
+      "mobile": 9903456771,
+      "password": "user84@123",
+      "fullName": "David Caral Gomez",
+      "id": 3
+    },
+    {
+      "userID": "user88",
+      "mobile": "9912345672",
+      "password": "user88@123",
+      "id": 4,
+      "fullName": "Sriharsha"
+    },
+    {
+      "userID": "2",
+      "mobile": "9912345678",
+      "password": "tadiparthi",
+      "id": 5,
+      "fullName": "Srihitha"
+    },
+    {
+      "userID": "4",
+      "mobile": "1234567830",
+      "password": "tadiparthi",
+      "id": 6,
+      "fullName": "Harsha"
+    }
+  ]
+}
